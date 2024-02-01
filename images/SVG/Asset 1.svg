@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178.97 174.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001e36;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="Surfaces">
+        <g id="Photo_Surface" data-name="Photo Surface">
+          <g id="Outline_no_shadow" data-name="Outline no shadow">
+            <path class="cls-1" d="M31.69,0h115.59c17.52,0,31.69,14.17,31.69,31.69v111.11c0,17.52-14.17,31.69-31.69,31.69H31.69c-17.52,0-31.69-14.17-31.69-31.69V31.69C0,14.17,14.17,0,31.69,0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
